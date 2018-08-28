@@ -1,3 +1,5 @@
 # Intro
 Intro to GitHub
-something
+Patrick Call
+08/27/2018
+Gyro
